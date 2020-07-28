@@ -1,7 +1,5 @@
 # 100days-of-code-log
 
----
-
 ## Challenge & Commitment
 
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
@@ -20,7 +18,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Log
 
-### Day 1: August 01, 2020, Saturday
+### Day 1: August 01, Saturday
 
 **Today's Progress**:
 
@@ -37,5 +35,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 -
 
 **Articles:**
+
+-
 
 ---
