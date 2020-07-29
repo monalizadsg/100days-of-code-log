@@ -6,9 +6,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Commitment:** _I will code daily for the next 100 days._
 
-| Start Date      | End Date          |
-| --------------- | ----------------- |
-| August 01, 2020 | November 08, 2020 |
+| Start Date    | End Date          |
+| ------------- | ----------------- |
+| July 29, 2020 | November 05, 2020 |
 
 ## Goals
 
@@ -18,24 +18,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ## Log
 
-### Day 1: August 01, Saturday
+### Day 1: July 29, Wednesday
 
-**Today's Progress**:
+**Today's Objectives**:
+
+- Start building project for FCC Web Design Certification
+- Continue JS OOP course
 
 **Link to work:**
 
--
+- [Tribute Page](https://codepen.io/mnlz/pen/XWXLJgZ "Tribute Page").
 
-**New thing(s) learned:**
+**New thing(s) learned:** Today, I learned about protypical inheritance and composition.
 
--
+**Thoughts:** Starting this challenge makes me more committed to finish project that I started. Feeling grateful and motivated to do more.
 
-**Thoughts:**
-
--
-
-**Articles:**
-
--
+## **Articles:**
 
 ---
