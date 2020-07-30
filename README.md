@@ -33,6 +33,23 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Thoughts:** Starting this challenge makes me more committed to finish project that I started. Feeling grateful and motivated to do more.
 
-## **Articles:**
-
 ---
+
+### Day 2: July 30, Thursday
+
+**Today's Objectives**:
+
+- Start JS ES6 course
+- Survey Form FCC Project
+
+**Link to work:**
+
+- [Survey Form](https://codepen.io/mnlz/pen/bGEPMoE "Survey Form")
+
+**New thing(s) learned:** Today, I learned about classes. How to create objects and implement inheritance by using classes.
+
+**Thoughts:** Using ES6 is way more simpler and easier to write code e.g getters and setters.
+
+**Articles:** I came accross with this article about motivation and productivity.
+
+- [How to Motivate Yourself Every Single Day](https://medium.com/mind-cafe/how-to-motivate-yourself-every-single-day-66c11209e23f)
