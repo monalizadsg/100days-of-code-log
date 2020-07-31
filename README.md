@@ -53,3 +53,27 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Articles:** I came accross with this article about motivation and productivity.
 
 - [How to Motivate Yourself Every Single Day](https://medium.com/mind-cafe/how-to-motivate-yourself-every-single-day-66c11209e23f)
+
+---
+
+### Day 3: July 31, Friday
+
+**Today's Objectives**:
+
+- Start Product landing page FCC Project
+
+**Link to work:**
+
+- [Product Landing Page](https://github.com/monalizadsg/fcc-projects/tree/master/product-landing-page "Product Landing Page")
+
+**New thing(s) learned:** None for today. But I was able to re-learn how to use illustrator. Still happy that I was able to do the simple things.
+
+**Thoughts:** Today, I only coded for only few hours because I had a personal errand to do.
+
+**Articles:** Here's the articles I came across with today. I will definitely check out the game tutorial by fcc and I'm planning to include a daily practice of solving programming problems to get comfortable with it.
+
+- [Best JavaScript Online Courses and Certifications to Try Out in 2020](https://codeburst.io/best-javascript-online-courses-and-certifications-to-try-out-in-2020-f38b083d21b8)
+
+- [How to Get Better at Solving Programming Problems](https://levelup.gitconnected.com/how-to-get-better-at-solving-programming-problems-29e547555bf2)
+
+---
