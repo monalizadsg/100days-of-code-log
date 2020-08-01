@@ -77,3 +77,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [How to Get Better at Solving Programming Problems](https://levelup.gitconnected.com/how-to-get-better-at-solving-programming-problems-29e547555bf2)
 
 ---
+
+### Day 4: August 1, Saturday
+
+**Today's Objectives**:
+
+- Finish Product landing page FCC Project
+
+**Link to work:**
+
+- [Product Landing Page](https://github.com/monalizadsg/fcc-projects/tree/master/product-landing-page "Product Landing Page")
+
+**New thing(s) learned:** None for today.
+
+**Thoughts:** Today, I took a break and did something like meal prepping(which will save me a ton of hours for the next days) and walking and getting fresh air outside. It feels nice and it's a way to keep away myself from burn-out. I was able to finish the project but my images can't be uploaded in codepen because I only have the free plan. I'm thinking about upgrading, but let me decide tomorrow.
