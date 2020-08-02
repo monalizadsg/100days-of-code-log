@@ -91,3 +91,27 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **New thing(s) learned:** None for today.
 
 **Thoughts:** Today, I took a break and did something like meal prepping(which will save me a ton of hours for the next days) and walking and getting fresh air outside. It feels nice and it's a way to keep away myself from burn-out. I was able to finish the project but my images can't be uploaded in codepen because I only have the free plan. I'm thinking about upgrading, but let me decide tomorrow.
+
+---
+
+### Day 5: August 02, Sunday
+
+**Today's Objectives**:
+
+- Submit product landing page to fcc
+- Build Login Page to practice vanilla js
+
+**Link to work:**
+
+- [Product Landing Page](https://codepen.io/mnlz/details/rNxXoRY "Product Landing Page")
+- [Login Page](https://github.com/monalizadsg/components/tree/master/login-page "Login Page")
+
+**New thing(s) learned:** Today, I was able to explore a useful tool to save assets(e.g images) in the cloud which is [cloudinary.com](https://cloudinary.com/ "cloudinary.com")
+
+**Thoughts:** I just realized that building projects are really helpful to gauge what I don't know yet. And for this, I will try to change the way I learn the concepts. I will build as I learn the concepts to fully understand it.
+
+**Articles:** Here's the article I came across with today.
+
+- [Why Consistency is a Productivity Super Power](https://medium.com/1-one-infinity/why-consistency-is-a-productivity-super-power-647a972230ab)
+
+---
