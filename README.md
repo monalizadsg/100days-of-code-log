@@ -115,3 +115,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [Why Consistency is a Productivity Super Power](https://medium.com/1-one-infinity/why-consistency-is-a-productivity-super-power-647a972230ab)
 
 ---
+
+### Day 6: August 02, Sunday
+
+**Today's Objectives**:
+
+- Technical documentation page FCC project
+- Free Portfolio Course by Laurence Bradford
+
+**Link to work:**
+
+- [Technical Documentation Page](https://codepen.io/mnlz/details/zYqOqee "Technical Documentation Page")
+
+**New thing(s) learned:** Today, I learned how important about having a portfolio site. It is an opportunity to show who you are and what you can do. It can also land you a new opportunities.
+
+**Thoughts:** I was able to finish one fcc project today. I'm kind of having burn out for the past two days but I'm glad I'm back on track! Taking a break is really helpful. And I want to exercise often soon to help my body and mind to become more energetic and regain more focus.
+
+**Articles:** Here's the article I came across with today. I'm interested to build a covid tracker so I would definitely include it in my weekly goal.
+
+- [8 Projects That Can Get You an Interview](https://dev.to/mrshawnhum/8-projects-that-can-get-you-an-interview-with-recommended-video-12mm)
+
+---
