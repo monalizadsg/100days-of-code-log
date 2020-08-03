@@ -116,7 +116,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-### Day 6: August 02, Sunday
+### Day 6: August 03, Monday
 
 **Today's Objectives**:
 
