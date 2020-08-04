@@ -136,3 +136,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [8 Projects That Can Get You an Interview](https://dev.to/mrshawnhum/8-projects-that-can-get-you-an-interview-with-recommended-video-12mm)
 
 ---
+
+### Day 7: August 04, Tuesday
+
+**Today's Objectives**:
+
+- Login page validation
+- Free Portfolio Course by Laurence Bradford
+
+**Link to work:**
+
+- - [Login Page](https://github.com/monalizadsg/components/tree/master/login-page "Login Page")
+
+**New thing(s) learned:** Today, I learned that I'm still having a confusion of manipulating arrays. I need to use the find method to check if the login input matches one of the array of users, instead of Object.entries method.
+
+**Thoughts:** I need to practice more to fully grasp how things work especially javascript.
+
+**Articles:** Here's the article I came across with today. The author created cool projects using free APIs.
+
+- [When frontend devs meet free APIs](https://dev.to/rutikwankhade/when-frontend-devs-meet-free-apis-2nkh)
+
+---
