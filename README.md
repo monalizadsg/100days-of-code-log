@@ -157,3 +157,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [When frontend devs meet free APIs](https://dev.to/rutikwankhade/when-frontend-devs-meet-free-apis-2nkh)
 
 ---
+
+### Day 8: August 05, Wednesday
+
+**Today's Objectives**:
+
+- Finish Free Portfolio Course by Laurence Bradford
+- Start registration form using react
+
+**Link to work:**
+
+- - [Registration Form](https://github.com/monalizadsg/components/tree/master/registration-form "Registration Form")
+
+**New thing(s) learned:** Today, I was able to use reactstrap for my registration form. Reading and understanding the documentation is something that I need to practice too.
+
+**Thoughts:** Having a hard time to understand how to set a validation for the form today, I need to try this again tomorrow. Anyway, I finish the free portfolio course, I decided to build 3 big projects first before starting to build a portfolio.
+
+---
