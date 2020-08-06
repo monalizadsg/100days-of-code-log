@@ -174,3 +174,25 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** Having a hard time to understand how to set a validation for the form today, I need to try this again tomorrow. Anyway, I finish the free portfolio course, I decided to build 3 big projects first before starting to build a portfolio.
 
 ---
+
+### Day 9: August 06, Thursday
+
+**Today's Objectives**:
+
+- Validate registration form
+- Start Login Form using react
+
+**Link to work:**
+
+- [Registration Form](https://github.com/monalizadsg/components "Registration Form")
+- [Login Form](https://github.com/monalizadsg/components "Login Form")
+
+**New thing(s) learned:** Today, I learned how to use libraries for form validation. I also practice to code my own validation without dependencies so I can learn how it works. But it is a bit verbose, so using some 3rd party library are recommended. It is wat more cleaner and organized.
+
+**Thoughts:** And I am back! I noticed that I was kind of losing motivation for the last few days. Building a habit for the past two months cause me to burn out. I had a progress but not consistent. So, this challenge is helping me to track what I learned in a day. And I will keep doing it, no matter what. :) So, I will focus on the things that matter. Practice will pay off soon.
+
+**Articles:** Here's the article I came across with today. It's a great article. It hit me. :)
+
+- [The Self-Taught Developer's Guide to Learning How to Code](https://www.freecodecamp.org/news/the-self-taught-developers-guide-to-coding/)
+
+---
