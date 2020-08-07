@@ -196,3 +196,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [The Self-Taught Developer's Guide to Learning How to Code](https://www.freecodecamp.org/news/the-self-taught-developers-guide-to-coding/)
 
 ---
+
+### Day 10: August 07, Friday
+
+**Today's Objectives**:
+
+- Learning How to Learn Webinar by Michael Simmons
+- Validate login form
+
+**Link to work:**
+
+- [Login Form](https://github.com/monalizadsg/components "Login Form")
+
+**New thing(s) learned:** What I learned from the webinar is we have to be eager to learn, have the right strategy and believe in ourselves. If we are putting and pushing ourselves to do the uncomfortable things, then we have to do a delibrate practice to be comfortable with it and it doesn't stop there, we have to be constantly learning inorder to grow and learn the invaluable skills that will make us successful and achieve what we truly desire in life. Learning how to learn is one of the essential skill we should have.
+
+**Thoughts:** Today, I got a migraine and a shortness of breath. I did the 'breathing on a paper bag' technique, it helped me to balance my breathing but my headache is still there. Took a med for the pain, rest for a while but it's still there. So yeah, this is due to the hot weather. So, I will only focus on the simple things right now.
+
+---
