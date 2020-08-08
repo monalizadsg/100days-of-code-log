@@ -223,15 +223,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Link to work:**
 
-- [Login Form](### Day 10: August 07, Friday
-
-**Today's Objectives**:
-
-- Learning How to Learn Webinar by Michael Simmons
-- Validate login form
-
-**Link to work:**
-
 - [Budget App](https://github.com/monalizadsg/budget-app "Budget App")
 
 **New thing(s) learned:** I'm learning how to implement a routing into my app. I used react-router-dom.
