@@ -213,3 +213,29 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** Today, I got a migraine and a shortness of breath. I did the 'breathing on a paper bag' technique, it helped me to balance my breathing but my headache is still there. Took a med for the pain, rest for a while but it's still there. So yeah, this is due to the hot weather. So, I will only focus on the simple things right now.
 
 ---
+
+### Day 11: August 08, Saturday
+
+**Today's Objectives**:
+
+- Revisit my budget app
+- Implement Routing
+
+**Link to work:**
+
+- [Login Form](### Day 10: August 07, Friday
+
+**Today's Objectives**:
+
+- Learning How to Learn Webinar by Michael Simmons
+- Validate login form
+
+**Link to work:**
+
+- [Budget App](https://github.com/monalizadsg/budget-app "Budget App")
+
+**New thing(s) learned:** I'm learning how to implement a routing into my app. I used react-router-dom.
+
+**Thoughts:** Haven't done much today due to my migraine. Still thankful that I managed to sit down and start learning.
+
+---
