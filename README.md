@@ -230,3 +230,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** Haven't done much today due to my migraine. Still thankful that I managed to sit down and start learning.
 
 ---
+
+### Day 12: August 09, Sunday
+
+**Today's Objectives**:
+
+- Start React Course
+
+**New thing(s) learned:** None yet.
+
+**Thoughts:** Haven't done much today but was able to start learning react course by Mosh. I want to learn how to integrate my login and registration form to my app.
