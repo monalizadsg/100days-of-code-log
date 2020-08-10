@@ -240,3 +240,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **New thing(s) learned:** None yet.
 
 **Thoughts:** Haven't done much today but was able to start learning react course by Mosh. I want to learn how to integrate my login and registration form to my app.
+
+---
+
+### Day 13: August 10, Monday
+
+**Today's Objectives**:
+
+- Continue React Course
+
+**Link to work:**
+
+- [Video App](https://github.com/monalizadsg/vidly "Video App")
+
+**New thing(s) learned:** Since, I am trying to refresh my learnings from the course, now I have a clear understanding about controlled components. They are entirely controlled by its parent. They are stateless and simply receives data and methods to modify the data via props.
+
+**Thoughts:** We had an exercise app from the course. And while doing the exercise based on my previous learnings, I finally solved it without even trying to copy the solution from the course. And I'm happy that I have a progress. :)
+
+---
