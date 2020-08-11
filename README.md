@@ -258,3 +258,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** We had an exercise app from the course. And while doing the exercise based on my previous learnings, I finally solved it without even trying to copy the solution from the course. And I'm happy that I have a progress. :)
 
 ---
+
+### Day 14: August 11, Tuesday
+
+**Today's Objectives**:
+
+- Redirect login form to home
+
+**Link to work:**
+
+- - [Budget App](https://github.com/monalizadsg/budget-app "Budget App")
+
+**New thing(s) learned:** I was able to use props of the router which is history to redirect the login page to home when successfully logged in.
+
+**Thoughts:** Little by little. I am making a progress :)
+
+---
