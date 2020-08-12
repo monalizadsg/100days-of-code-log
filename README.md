@@ -274,3 +274,20 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** Little by little. I am making a progress :)
 
 ---
+
+### Day 15: August 12, Wednesday
+
+**Today's Objectives**:
+
+- Do work shadowing with my mentor
+- Learn form validation
+
+**New thing(s) learned:** Been doing work shadowing for the past few days. While my mentor is working from home, I start to observe how he code/work and I was able to take some helpful tips and having an idea about react hooks.
+
+**Thoughts:** Today, I was given some small tasks for a project. Since it is a way for me to learn and practice more, I will do it no matter how scary it is. I always think that I am not yet ready, but this challenge will give me the opportunity to learn deeply and make myself comfortable with the real world experience. And I am excited about it!
+
+**Articles:** Here's the article that resonated with me today. It's a great article. Here's my take away: 'Some things don't make any sense today, but with patience and practice, it will eventually make sense one day, just continue showing up everyday'.
+
+- [4 Key Factors You Need to Master to Become a Successful Developer](https://medium.com/swlh/4-key-factors-you-need-to-master-to-become-a-successful-developer-97987172cf0)
+
+---
