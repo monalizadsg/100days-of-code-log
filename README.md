@@ -291,3 +291,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [4 Key Factors You Need to Master to Become a Successful Developer](https://medium.com/swlh/4-key-factors-you-need-to-master-to-become-a-successful-developer-97987172cf0)
 
 ---
+
+### Day 16: August 13, Thursday
+
+**Today's Objectives**:
+
+- Do validation in update password form
+- Implement same validation to registration form
+
+**New thing(s) learned:** So today, I had to understand and read docs from validate.js to implement it to the task I was assigned today. It's new to me, and I was stucked by some problems but was able to get help from my mentor.
+
+**Thoughts:** Tapping myself and feeling proud with a small achievement today! I was able to implement the validation and use other git command like creating a new branch and push it to the github.
+
+**Articles:** Here's the article I came accross with today.
+
+- [8 React.js Project Ideas to Help You Start Learning by Doing](https://www.freecodecamp.org/news/8-reactjs-project-ideas-to-start-learning-by-doing/)
+- [The Secret to Perseverance: How to Succeed as a Developer When All You Want to Do is Quit](https://www.freecodecamp.org/news/the-secret-to-perseverance-and-success/)
+
+---
