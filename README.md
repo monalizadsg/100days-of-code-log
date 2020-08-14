@@ -309,3 +309,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [The Secret to Perseverance: How to Succeed as a Developer When All You Want to Do is Quit](https://www.freecodecamp.org/news/the-secret-to-perseverance-and-success/)
 
 ---
+
+### Day 17: August 14, Friday
+
+**Today's Objectives**:
+
+- Fixed toast message, implement to all components needed
+- Implement a switch toggle to enable or disable a user
+- Make a date range filter
+
+**New thing(s) learned:** Today, I got stuck with the switch and date range as I am still understanding the codes. Had a hard grasp on how things are connected.
+
+**Thoughts:** This challenge is making me uncomfortable but this is the only way that I can learn it. So, I will tackle the problem again tomorrow. I hope it will stick and solve it as soon as possible.
+
+---
