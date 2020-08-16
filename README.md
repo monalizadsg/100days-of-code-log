@@ -323,3 +323,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** This challenge is making me uncomfortable but this is the only way that I can learn it. So, I will tackle the problem again tomorrow. I hope it will stick and solve it as soon as possible.
 
 ---
+
+### Day 18-19: August 15-16, Sat-Sun
+
+**Today's Objectives**:
+
+- Make multiple switch work in a single component
+- Forgot password form
+- Redirect to reset form when email is sent
+
+**New thing(s) learned:** Today, I am so happy that I learn how to implement forgot password and redirect it to reset password route and get the url params and used it for the endpoints. It keeps me excited even if it is hard.
+
+**Thoughts:** I'm uncomfortable with what I do now, but it keeps me learning new things. It's not easy but I can do it. :)
+
+---
