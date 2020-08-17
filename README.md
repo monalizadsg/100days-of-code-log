@@ -337,3 +337,19 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** I'm uncomfortable with what I do now, but it keeps me learning new things. It's not easy but I can do it. :)
 
 ---
+
+### Day 20: August 17, Monday
+
+**Today's Objectives**:
+
+- Finish forgot-password flow
+
+**New thing(s) learned:** Today, I was able to implement the forgot password flow.
+
+**Thoughts:** Saying yes to an opportunity that you can learn gives so much satisfaction when you finally solve it.
+
+**Articles:** Here's the article I came accross with today.
+
+- [It’s Not About Routine, but About Practice](https://forge.medium.com/its-not-about-routine-but-about-practice-200a56c5505)
+
+---
