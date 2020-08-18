@@ -353,3 +353,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - [It’s Not About Routine, but About Practice](https://forge.medium.com/its-not-about-routine-but-about-practice-200a56c5505)
 
 ---
+
+### Day 21: August 18, Tuesday
+
+**Today's Objectives**:
+
+- Implement enable-disable button
+
+**New thing(s) learned:** Today, I was stuck on switch toggle. Still on the process of finding and thinking about a right solution to the problem.
+
+**Thoughts:** There are days that I really want to punch in the air because I cant think of a solution on how to solve the problem, and today is unfortunately is.
+
+---
