@@ -365,3 +365,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** There are days that I really want to punch in the air because I cant think of a solution on how to solve the problem, and today is unfortunately is.
 
 ---
+
+### Day 22: August 19, Wednesday
+
+**Today's Objectives**:
+
+- Implement enable-disable button
+
+**New thing(s) learned:** Today, I was able to implement the enable-disable button using another solution. So, instead of using a switch button, I used a disable icon. When the icon is clicked, it will show a modal to confirm if you are sure to disable a user, then if yes the status of the user will change to disabled.
+
+**Thoughts:** There are many ways to solve a problem. I need to learn and practice on how to think of the right way to solve the problem. There are times that the solution I choose to take is not the right way, I got stucked for days but the thing is I still learned. That sometimes, you have to check if the solution you are taking is somehow the right way inorder not to waste a lot of time.
+
+---
