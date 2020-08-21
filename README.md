@@ -377,3 +377,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** There are many ways to solve a problem. I need to learn and practice on how to think of the right way to solve the problem. There are times that the solution I choose to take is not the right way, I got stucked for days but the thing is I still learned. That sometimes, you have to check if the solution you are taking is somehow the right way inorder not to waste a lot of time.
 
 ---
+
+### Day 23-24: August 20-21, Thursday-Friday
+
+**Today's Objectives**:
+
+- Implement Filter with a date ranges
+
+**New thing(s) learned:** Learning how to manipulate dates. It is kind of tricky the first time. But I need to understand it by reading the documentation. Right now, what I am using is moment.js
+
+**Thoughts:** Getting comfortable with how to pass data via props from a child component to other parent. I had learn a technique from a mentor, and it is to make sure that it works first by doing console.log and checking it in the console.
+
+---
