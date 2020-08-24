@@ -389,3 +389,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** Getting comfortable with how to pass data via props from a child component to other parent. I had learn a technique from a mentor, and it is to make sure that it works first by doing console.log and checking it in the console.
 
 ---
+
+### Day 25-27: August 22-24, Saturday-Monday
+
+**Today's Objectives**:
+
+- Implement Filter with a date ranges
+- Fixed Toast Messages
+- Fixed Validation to login form, reset password form etc.
+
+**New thing(s) learned:** Finally implemented the date range filter. :)
+
+**Thoughts:** I noticed that whenever I got stuck with a problem, taking a break is a huge help. Sometimes, when I take shower or do something different, some ideas come and sometimes it lead me to the solution.
+
+---
