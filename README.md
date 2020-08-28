@@ -403,3 +403,29 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** I noticed that whenever I got stuck with a problem, taking a break is a huge help. Sometimes, when I take shower or do something different, some ideas come and sometimes it lead me to the solution.
 
 ---
+
+### Day 28-29: August 25-26, Tuesday-Wednesday
+
+**Today's Objectives**:
+
+- Add custom to date filters
+- Trim columns when the account role is user
+- Commit and push the tasks done to merge with develop branch
+
+**New thing(s) learned:** I finally manage to commit and push the tasks done. Then, I created a pull request in the bitbucket. I gotta admit, I enjoy it :)
+
+**Thoughts:** There are things that I am afraid to do things at first. But with practice and courage to do it is something that will make me learn and grow. I just need to put myself out there and just do it anyway even if I commit a mistake at first. It's the only way I can learn.
+
+---
+
+### Day 30-31: August 27-28, Thursday-Friday
+
+**Today's Objectives**:
+
+- Customized and fixed custom date range filter
+
+**New thing(s) learned:** Working on custom date filter. Currently learning the styled components inorder to learn how to customize the calendar.
+
+**Thoughts:** Still working on customizing the calendar, having a hard time to override the style because it used styled components. Hope to finish it tomorrow.
+
+---
