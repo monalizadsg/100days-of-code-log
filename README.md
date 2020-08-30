@@ -429,3 +429,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** Still working on customizing the calendar, having a hard time to override the style because it used styled components. Hope to finish it tomorrow.
 
 ---
+
+### Day 32-33: August 29-30, Saturday-Sunday
+
+**Today's Objectives**:
+
+- Implement date range filter to another component
+- Add another route regarding total hours calculations and create a table and display data
+
+**New thing(s) learned:** I'm getting comfortable with fetching data using api endpoints. I'm also learning new command in git like merge, stash and i was able to delete branch whenever it is not needed anymore.
+**Thoughts:** console.log is a great way to check if your code works, you have to make sure that everytime you try things, you have to do console.log if possible to check if things are working before implementing the real block of codes.
+
+---
