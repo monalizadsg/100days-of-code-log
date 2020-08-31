@@ -441,3 +441,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** console.log is a great way to check if your code works, you have to make sure that everytime you try things, you have to do console.log if possible to check if things are working before implementing the real block of codes.
 
 ---
+
+### Day 34: August 31, Monday
+
+**Today's Objectives**:
+
+- Change current datepicker library to (react-dates)
+
+**New thing(s) learned:** I had to learn to use another datepicker library because I'm having a hard time to customized the previous one. So far, I was able to implement it successfully.
+**Thoughts:** Still having a hard time to understand the docs at first glance. Today, I had an issue regarding the datepicker, I cannot make the start and end dates from the parent to the datepicker dynamically. With the help of my mentor, he found out that I am not passing the correct value, it is because of my naming.. I was not being consistent with it and it caused some bug that is not easy to debug. Anyways, lesson learned! :)
+
+---
