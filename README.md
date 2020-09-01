@@ -452,3 +452,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** Still having a hard time to understand the docs at first glance. Today, I had an issue regarding the datepicker, I cannot make the start and end dates from the parent to the datepicker dynamically. With the help of my mentor, he found out that I am not passing the correct value, it is because of my naming.. I was not being consistent with it and it caused some bug that is not easy to debug. Anyways, lesson learned! :)
 
 ---
+
+### Day 35: September 1, Tuesday
+
+**Today's Objectives**:
+
+- Working on react-dates datepicker
+
+**New thing(s) learned:** Today, I was able to implement the new datepicker to the application.
+**Thoughts:** I need to practice naming the props with consistent naming, inorder to avoid confusion. And that's my next task :)
+
+---
