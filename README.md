@@ -463,3 +463,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** I need to practice naming the props with consistent naming, inorder to avoid confusion. And that's my next task :)
 
 ---
+
+### Day 36: September 2, Tuesday
+
+**Today's Objectives**:
+
+- Implement date-range-filter to other components
+- fixed reg form validations
+
+**New thing(s) learned:** Today, I was able to implement the date filter easily to other component.
+**Thoughts:** This learning journey is indeed helping me to learn how to think of possible ways to solve a problem.
+
+---
