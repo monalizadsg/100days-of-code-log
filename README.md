@@ -464,7 +464,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
-### Day 36: September 2, Tuesday
+### Day 36: September 2, Wednesday
 
 **Today's Objectives**:
 
@@ -473,5 +473,17 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **New thing(s) learned:** Today, I was able to implement the date filter easily to other component.
 **Thoughts:** This learning journey is indeed helping me to learn how to think of possible ways to solve a problem.
+
+---
+
+### Day 37-38: September 3-4, Thursday-Friday
+
+**Today's Objectives**:
+
+- Revisit my budget app
+- Check new features needed
+
+**New thing(s) learned:** I am trying to learn how use material ui.
+**Thoughts:** I will re-do my app and will use material ui.
 
 ---
