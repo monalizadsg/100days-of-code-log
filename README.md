@@ -487,3 +487,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** I will re-do my app and will use material ui.
 
 ---
+
+### Day 39: September 5, Saturday
+
+**Today's Objectives**:
+
+- Redo my budget app
+
+**New thing(s) learned:** I'm having a hard time to understand material ui, so I will only use it for those components that's complex
+**Thoughts:** I have to practice to make my own components and try to make it responsive
+
+---
