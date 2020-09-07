@@ -498,3 +498,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** I have to practice to make my own components and try to make it responsive
 
 ---
+
+### Day 40-41: September 6-7, Sunday-Monday
+
+**Today's Objectives**:
+
+- Continue budget app
+- Do tasks from my mentor
+
+**New thing(s) learned:** I'm starting to learn how to make a form using a material ui. First time using grid.
+
+**Thoughts:** It kinda hard but I have to continue practice it to be comfortable with it.
