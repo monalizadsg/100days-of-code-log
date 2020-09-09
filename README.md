@@ -509,3 +509,18 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **New thing(s) learned:** I'm starting to learn how to make a form using a material ui. First time using grid.
 
 **Thoughts:** It kinda hard but I have to continue practice it to be comfortable with it.
+
+---
+
+### Day 42-43: September 8-9, Tuesday-Wednesday
+
+**Today's Objectives**:
+
+- Pair-programming with my mentor
+- Do some tasks for my budget app
+
+**New thing(s) learned:** Learned that making Constants if you have one is necessary when building an app to avoid having bugs/issues in the future. It is also easier to call it when needed instead of repeatedly typing it that can cause issues.
+
+**Thoughts:** Learning a lot from my mentor. What we're worrking on is a bit complicated but challenging at the same time.
+
+---
