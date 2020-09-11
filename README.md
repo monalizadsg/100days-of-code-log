@@ -524,3 +524,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** Learning a lot from my mentor. What we're worrking on is a bit complicated but challenging at the same time.
 
 ---
+
+### Day 44-45: September 10-11, Thursday-Friday
+
+**Today's Objectives**:
+
+- Do some tasks from my mentor
+- Do tasks for my budget app
+
+**New thing(s) learned:** Learning more about css, manipulating elements using transform property. Overriding elements when using material-ui components is a bit challenging.
+
+**Thoughts:** I noticed that doing css really takes time at the start. I will take it as an opportunity to get comfortable with flexbox and other css properties.
+
+---
