@@ -537,3 +537,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** I noticed that doing css really takes time at the start. I will take it as an opportunity to get comfortable with flexbox and other css properties.
 
 ---
+
+### Day 46-48: September 12-14, Saturday-Monday
+
+**Today's Objectives**:
+
+- Do the tasks from my mentor
+
+**New thing(s) learned:** I am more on learning about doing some validation with form right now. Working with errors, so since I have a 4 grid options, if it is empty, then I need to show that the field is required. I got stuck because I use array instead of object. Using object is indeed the easier way inorder to pass the error value individually by using their unique id as a property of the object.
+
+**Thoughts:** I was stucked with some problem for 2days. It is regarding with object vs array. I kind of using array instead of object which makes it complicated.
+
+---
