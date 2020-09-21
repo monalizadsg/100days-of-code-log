@@ -549,3 +549,21 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** I was stucked with some problem for 2days. It is regarding with object vs array. I kind of using array instead of object which makes it complicated.
 
 ---
+
+### Day 49-51: September 15-17, Tuesday-Thursday
+
+**Thoughts:** I wasn't able to do much because I had a headache coming from the back of my eye so I had to take a break.
+
+---
+
+### Day 52-54: September 18-20, Friday-Sunday
+
+**Today's Objectives**:
+
+- Continue my tasks from my mentor
+
+**New thing(s) learned:** I continued doing the mockups from my tasks.
+
+**Thoughts:** I am getting comfortable with reading someone's code, it is a great opportunity to experience this kind of project. :)
+
+---
