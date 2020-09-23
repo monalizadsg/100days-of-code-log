@@ -567,3 +567,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** I am getting comfortable with reading someone's code, it is a great opportunity to experience this kind of project. :)
 
 ---
+
+### Day 55-57: September 21-23, Monday-Wednesday
+
+**Today's Objectives**:
+
+- Revisit my budget app and continue the transactions
+
+**New thing(s) learned:** I redid my budget app and learned how to turn my api's into a service.
+
+**Thoughts:** Since, I am re-doing my budget app, I notice that it is getting over time :) Gotta practice more! :)
+
+---
