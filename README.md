@@ -579,3 +579,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** Since, I am re-doing my budget app, I notice that it is getting over time :) Gotta practice more! :)
 
 ---
+
+### Day 58-59: September 24-25, Thursday-Friday
+
+**Today's Objectives**:
+
+- Continue the date range dropdown
+
+**New thing(s) learned:** Im working on the the date ranges by period and custom dates. I got stuck but was able to do it on the 2nd day. But there's one thing unsolved yet, regarding on how to set the default value of the select material ui.
+
+---
