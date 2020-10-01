@@ -589,3 +589,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **New thing(s) learned:** Im working on the the date ranges by period and custom dates. I got stuck but was able to do it on the 2nd day. But there's one thing unsolved yet, regarding on how to set the default value of the select material ui.
 
 ---
+
+### Day 60-64: September 26-30, Saturday-Wednesday
+
+**Today's Objectives**:
+
+- Finish date filter
+- Start budget
+
+**New thing(s) learned:** Slowly, I was able to finish the dropdown and start the budget in a week. I also do some mini tasks from my mentor like doing mock ups from time to time.
+
+---
