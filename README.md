@@ -600,3 +600,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **New thing(s) learned:** Slowly, I was able to finish the dropdown and start the budget in a week. I also do some mini tasks from my mentor like doing mock ups from time to time.
 
 ---
+
+### Day 65-67: October 1-3, Thursday-Saturday
+
+**Today's Objectives**:
+
+- Work on budget
+- Start learning next.js for the blog
+
+**New thing(s) learned:** I am starting to learn about next.js and it is kind of comfortable. I am excited because I am going to start my passion project which going to be my personal blog. :)
+
+---
