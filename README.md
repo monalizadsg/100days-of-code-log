@@ -611,3 +611,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **New thing(s) learned:** I am starting to learn about next.js and it is kind of comfortable. I am excited because I am going to start my passion project which going to be my personal blog. :)
 
 ---
+
+### Day 68-70: October 4-6, Sunday-Tuesday
+
+**Today's Objectives**:
+
+- Learn responsive design for my next task from my mentor
+
+**New thing(s) learned:** I had to stop learning nextjs and jump into responsive instead since we're going to work on the resposiveness of the project we're working on.
+
+---
