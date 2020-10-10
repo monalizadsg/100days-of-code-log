@@ -621,3 +621,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **New thing(s) learned:** I had to stop learning nextjs and jump into responsive instead since we're going to work on the resposiveness of the project we're working on.
 
 ---
+
+### Day 71-74: October 7-10, Wednesday-Saturday
+
+**Today's Objectives**:
+
+- Do mobile responsive
+
+**New thing(s) learned:** Learning how to do mobile responsive is a bit challenging because you have to consider the layout in all types of devices. It is also time consuming. I know, it will be a great experience for me because the UI is a bit complicated when it comes to mobile. It is entirely different from the layout in the bigger viewport.
+
+---
