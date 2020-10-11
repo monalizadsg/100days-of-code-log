@@ -631,3 +631,16 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **New thing(s) learned:** Learning how to do mobile responsive is a bit challenging because you have to consider the layout in all types of devices. It is also time consuming. I know, it will be a great experience for me because the UI is a bit complicated when it comes to mobile. It is entirely different from the layout in the bigger viewport.
 
 ---
+
+### Day 75: October 11, Sunday
+
+**Today's Objectives**:
+
+- Do mobile responsive
+- Start login form from rummble
+
+**New thing(s) learned:** Today, I have to learn how to manage my time. I am excited to start collaborating with a team and we are building a dribble clone project. So, I asked to be assigned in login/register form and it is kinda challenging because it is my first time using react-hook-forms and tailwind, so I am managing my time doing all of these and also doing responsive task from my mentor which is my priority becuase the launch will be in 5days. So, we have to finish it until tuesday. I can feel a lot of pressure here, but I have to calm down from time to time inorder to be working efficiently and being focused so I wont waste more time. It is exciting by the way! coz I know that I am learning more.
+
+---
+
+---
