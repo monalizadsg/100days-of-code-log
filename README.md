@@ -643,4 +643,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+### Day 76: October 12, Monday
+
+**Today's Objectives**:
+
+- Continue mobile responsive
+- Continue login form from rummble
+
+**New thing(s) learned:** So, I have finish the login form today. BUt i have to make some adjustments and break it into smaller components. I am still learning how to use tailwind, but i think this is a good resource to bootstrap an application or website. I am also continuing doing the responsive from my mentor. and yes, this is a hell of a work day but it is challenging. :)
+
+---
+
 ---
