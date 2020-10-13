@@ -654,4 +654,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 ---
 
+### Day 77: October 13, Tuesday
+
+**Today's Objectives**:
+
+- Continue mobile responsive
+- Continue login form from rummble
+
+**New thing(s) learned:** Today is my official first of my first pull request in github. I consider this as first because I am working on something that is beyond my level but I have to put myself out there and do something. I dont know if my code will pass but I have to take and learn from it. It's really challenging and exciting as well!
+
 ---
