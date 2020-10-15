@@ -664,3 +664,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **New thing(s) learned:** Today is my official first of my first pull request in github. I consider this as first because I am working on something that is beyond my level but I have to put myself out there and do something. I dont know if my code will pass but I have to take and learn from it. It's really challenging and exciting as well!
 
 ---
+
+### Day 78-79: October 14-15, Wednesday - Thursday
+
+**Today's Objectives**:
+
+- Sign up page for rummmble
+- Nextjs docs
+
+**New thing(s) learned:** I kind of having some thoughts if my code is right or wrong. I kind of worried but it is the only to learn and put myself out there. I have to learn from it. Whatever the feedback will be, then I gotta get it and work on it. I am also in the process of diving into nextjs right now. :)
+
+---
