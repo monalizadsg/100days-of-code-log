@@ -675,3 +675,14 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **New thing(s) learned:** I kind of having some thoughts if my code is right or wrong. I kind of worried but it is the only to learn and put myself out there. I have to learn from it. Whatever the feedback will be, then I gotta get it and work on it. I am also in the process of diving into nextjs right now. :)
 
 ---
+
+### Day 80-90: October 16-26, Friday - Monday
+
+**Today's Objectives**:
+
+- Budget App
+- MM
+
+**New thing(s) learned:** Hey, been a long time since I last record here. I was able to do a lot of things and been busy for the last few days so, its good to be back. To catch up, I deployed my budget app on heroku already, been working with some additional features and issues as well. Then, I already started a podcast so that's kinda sucking my time up for most of the time. :) But i do really enjoy it. On my blog project, i kinda out of track on that but i will get on it as soon as posssible.. 
+
+---
